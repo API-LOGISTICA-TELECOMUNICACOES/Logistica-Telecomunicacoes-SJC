@@ -27,3 +27,19 @@ Este projeto tem como objetivo tratar dados e desenvolver um dashboard, analisan
 | RF8 | O dashboard deve permitir consultar a fonte e o período dos indicadores apresentados. |
 | RF9 | O dashboard deve permitir visualizar os indicadores em gráficos e tabelas adequados à análise. |
 | RF10 | O dashboard deve permitir atualização dos dados quando novas bases forem disponibilizadas. |
+
+
+## Requisitos Não Funcionais:
+
+| Número do Requisito | Requisito do Parceiro |
+| :--- | :--- |
+| *RNF1* | O dashboard deve apresentar bom desempenho na exibição dos dados. |
+| *RNF2* | O painel deve ser intuitivo e de fácil utilização. |
+| *RNF3* | Os dados apresentados devem ser confiáveis e consistentes. |
+| *RNF4* | O dashboard deve suportar o volume de dados necessário para a análise da RAIS e das demais fontes acordadas. |
+| *RNF5* | O dashboard deve permitir atualização dos dados de forma organizada e reproduzível. |
+| *RNF6* | O dashboard deve possuir visualização clara, organizada e consistente. |
+| *RNF7* | O dashboard deve ser compatível com os dispositivos e formatos de apresentação acordados. |
+| *RNF8* | O dashboard deve apresentar os indicadores com tempo de resposta adequado. |
+| *RNF9* | O dashboard deve preservar a integridade e a rastreabilidade dos dados. |
+| *RNF10* | O dashboard deve respeitar as regras de acesso e uso das bases de dados. |
