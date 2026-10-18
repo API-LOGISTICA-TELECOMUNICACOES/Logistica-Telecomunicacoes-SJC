@@ -1,2 +1,18 @@
 # Logistica-Telecomunicacoes-SJC
-Projeto acadêmico de mapeamento logístico do setor de telecomunicações em São José dos Campos.
+Nós da equipe Icarus estudantes do 1º semestre do curso de GPI na FATEC SJC, estamos comprometidos com o desenvolvimento do projeto "Mapeamento do Ecossistema Industrial Regional" neste repositório. O objetivo do projeto é criar um dashboard interativo e com filtragem de dados para pesquisa e análise
+
+# Objetivo do Projeto
+Este projeto tem como objetivo tratar dados e desenvolver um dashboard, analisando os setores econômicos e industriais no Vale do Paraíba, identificando segmentos em destaque, volume de vínculos empregativos e avaliando o desempenho das empresas no ano de 2024
+
+# Índice
+# Índice
+
+♦️ [Objetivo do Projeto](#objetivo-do-projeto)
+♦️ [Requisitos](#requisitos)
+♦️ [Integrantes do Projeto](#integrantes-do-projeto)
+♦️ [Backlog do Produto](#backlog-do-produto)
+♦️ [Cronograma do Projeto](#cronograma-do-projeto)
+♦️ [Tecnologias Utilizadas](#tecnologias-utilizadas)
+♦️ [Termo de Requisitos de Permanência](#termo-de-requisitos-de-permanência)
+♦️ [Documentação das Sprints](#documentação-das-sprints)
+♦️ [MVP das Sprints](#mvp-das-sprints)
