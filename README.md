@@ -6,9 +6,9 @@ Este projeto tem como objetivo tratar dados e desenvolver um dashboard, analisan
 
 # Índice
 
-♦️ [Objetivo do Projeto](#objetivo-do-projeto)
-♦️ [Requisitos](#requisitos)
-♦️ [Integrantes do Projeto](#integrantes-do-projeto)
-♦️ [Backlog do Produto](#backlog-do-produto)
-♦️ [Cronograma do Projeto](#cronograma-do-projeto)
+- ♦️ [Objetivo do Projeto](#objetivo-do-projeto)
+- ♦️ [Requisitos](#requisitos)
+- ♦️ [Integrantes do Projeto](#integrantes-do-projeto)
+- ♦️ [Backlog do Produto](#backlog-do-produto)
+- ♦️ [Cronograma do Projeto](#cronograma-do-projeto)
 
