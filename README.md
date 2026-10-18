@@ -12,3 +12,18 @@ Este projeto tem como objetivo tratar dados e desenvolver um dashboard, analisan
 - ♦️ [Backlog do Produto](#backlog-do-produto)
 - ♦️ [Cronograma do Projeto](#cronograma-do-projeto)
 
+  # Requisitos
+  ## Requisitos Funcionais:
+
+| Número do Requisito | Requisito do Parceiro |
+| :--- | :--- |
+| RF1 | O dashboard deve apresentar uma visão geral das empresas do setor de telecomunicações em São José dos Campos. |
+| RF2 | O dashboard deve permitir localizar geograficamente as empresas do setor no município. |
+| RF3 | O dashboard deve apresentar a quantidade de vínculos empregatícios do setor de telecomunicações. |
+| RF4 | O dashboard deve apresentar o perfil dos trabalhadores do setor. |
+| RF5 | O dashboard deve permitir filtrar os dados por ano. |
+| RF6 | O dashboard deve apresentar a evolução do setor ao longo de cinco anos. |
+| RF7 | O dashboard deve permitir comparar o setor de telecomunicações com outros setores econômicos. |
+| RF8 | O dashboard deve permitir consultar a fonte e o período dos indicadores apresentados. |
+| RF9 | O dashboard deve permitir visualizar os indicadores em gráficos e tabelas adequados à análise. |
+| RF10 | O dashboard deve permitir atualização dos dados quando novas bases forem disponibilizadas. |
