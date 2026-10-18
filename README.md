@@ -75,6 +75,9 @@ Este projeto tem como objetivo tratar dados e desenvolver um dashboard, analisan
 | :--- | :---: | :---: | :---: |
 | Kick off do projeto | 02/08/2026 | 21/10/2026 | :white_check_mark: |
 | [Sprint 1](#) | 08/10/2026 | 22/10/2026 | |
-| Sprint Review | | | |
+| Sprint Review/Planning | | | |
 | [Sprint 2](#) | | 05/11/2026 | |
+| Sprint Review/Planning | | | |
 | [Sprint 3](#) | | 26/11/2026 | |
+| Sprint review | | | |
+| Feira de Soluções | | | |
