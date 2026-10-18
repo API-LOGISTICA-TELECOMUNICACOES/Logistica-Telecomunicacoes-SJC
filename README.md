@@ -5,14 +5,10 @@ Nós da equipe Icarus estudantes do 1º semestre do curso de GPI na FATEC SJC, e
 Este projeto tem como objetivo tratar dados e desenvolver um dashboard, analisando os setores econômicos e industriais no Vale do Paraíba, identificando segmentos em destaque, volume de vínculos empregativos e avaliando o desempenho das empresas no ano de 2024
 
 # Índice
-# Índice
 
 ♦️ [Objetivo do Projeto](#objetivo-do-projeto)
 ♦️ [Requisitos](#requisitos)
 ♦️ [Integrantes do Projeto](#integrantes-do-projeto)
 ♦️ [Backlog do Produto](#backlog-do-produto)
 ♦️ [Cronograma do Projeto](#cronograma-do-projeto)
-♦️ [Tecnologias Utilizadas](#tecnologias-utilizadas)
-♦️ [Termo de Requisitos de Permanência](#termo-de-requisitos-de-permanência)
-♦️ [Documentação das Sprints](#documentação-das-sprints)
-♦️ [MVP das Sprints](#mvp-das-sprints)
+
