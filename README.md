@@ -43,3 +43,14 @@ Este projeto tem como objetivo tratar dados e desenvolver um dashboard, analisan
 | *RNF8* | O dashboard deve apresentar os indicadores com tempo de resposta adequado. |
 | *RNF9* | O dashboard deve preservar a integridade e a rastreabilidade dos dados. |
 | *RNF10* | O dashboard deve respeitar as regras de acesso e uso das bases de dados. |
+
+### Integrantes do projeto
+
+| Integrantes | Painel de Mapeamento do Ecossistema Industrial Regional |
+| :--- | :--- |
+| *Camila Silva* | Scrum Master |
+| *Flávio Almeida* | Equipe de desenvolvimento |
+| *Igor Norberto* | Proprietário do Produto |
+| *Juan Victor* | Equipe de desenvolvimento |
+| *Pedro Henrique* | Equipe de desenvolvimento |
+| *Renan Matheus* | Equipe de desenvolvimento |
