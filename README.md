@@ -68,3 +68,13 @@ Este projeto tem como objetivo tratar dados e desenvolver um dashboard, analisan
 | *7* | MÉDIA | EUA-7 | Como cliente, quero consultar as fontes e períodos dos dados apresentados para garantir rastreabilidade e integridade das informações. | 4 | RF8, RNF9, RNF10 |
 | *8* | MÉDIA | EUA-8 | Como cliente, quero interagir com tabelas e gráficos funcionais para realizar análises personalizadas. | 6 | RF9, RNF1, RNF6, RNF7 |
 | *9* | BAIXA | EUA-9 | Como cliente, quero que a base de dados seja facilmente atualizável para manter o painel sempre renovado com novas fontes. | 8 | RF10, RNF5 |
+
+# Cronograma do Projeto
+
+| <span translate="no">Fase</span> | <span translate="no">Início</span> | <span translate="no">Entrega</span> | <span translate="no">Status</span> |
+| :--- | :---: | :---: | :---: |
+| Kick off do projeto | 02/08/2026 | 21/10/2026 | :white_check_mark: |
+| [Sprint 1](#) | 08/10/2026 | 22/10/2026 | |
+| Sprint Review | | | |
+| [Sprint 2](#) | | 05/11/2026 | |
+| [Sprint 3](#) | | 26/11/2026 | |
